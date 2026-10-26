@@ -36,7 +36,7 @@ All data is **simulated**. CLARA is a fictional brand, and the targets come from
 - The value of this project is the method: framing business questions, defining KPIs, writing DAX, and reaching a recommendation
 
 ## Files
-- [`Clara-brand-kpi-dashboard.pdf`](Clara-brand-kpi-dashboard.pdf): full dashboard export
+- [`Clarabrand-kpi-dashboard.pdf`](Clarabrand-kpi-dashboard.pdf): full dashboard export
 
 ## Tools
 Power BI, DAX , Data visualisation
