@@ -3,9 +3,9 @@
 A self-initiated Power BI KPI tracker that tests a brand strategy against its own targets.
 
 ## Why I built this
-CLARA is a fictional electrolyte water brand I worked on in my Digital Marketing Technology and Management module at Warwick Business School. The coursework ended with a strategy report and a set of targets, but it never tested whether the strategy would meet them.
+CLARA is a fictional electrolyte water brand I developed a marketing strategy for in my Digital Marketing Technology and Management module at Warwick Business School. That module did not include Power BI or any dashboard work.
 
-After submission, nobody asked me to continue. I built this dashboard on my own to answer the business questions properly, as if CLARA were a live brand, and to practise turning a strategy into measurable KPIs.
+On my own initiative, I built this dashboard to test the strategy against its targets: I turned the KPIs from my strategy report into a Power BI tracker and answered five business questions as if CLARA were a live brand. Nobody asked me to do this; I wanted to practise turning a strategy into measurable KPIs.
 
 ## Business questions
 The dashboard answers five questions:
