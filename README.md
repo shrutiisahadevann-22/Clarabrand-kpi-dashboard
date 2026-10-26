@@ -39,6 +39,6 @@ All data is **simulated**. CLARA is a fictional brand, and the targets come from
 - [`Clarabrand-kpi-dashboard.pdf`](Clarabrand-kpi-dashboard.pdf): full dashboard export
 
 ## Tools
-Power BI, DAX , Data visualisation
+Power BI, DAX,Data visualisation
 
 Built by Shruti Sahadevan, MSc Business Analytics, Warwick Business School.
